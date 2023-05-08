@@ -1,0 +1,2 @@
+# Land_generation.py
+This code implements a modified diamond-square algorithm to generate a 2D heightmap using recursion. It initializes a matrix of size n with specified corner values and fills in the matrix using a recursive approach. The code also includes a printGraph function to visualize the generated heightmap as colored squares based on height value ranges. The heightmap is printed both as a numerical matrix and a visual representation with colored squares.
